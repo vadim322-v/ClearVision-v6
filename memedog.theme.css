@@ -1,5 +1,5 @@
 /**
- * @name memedog
+ * @name memedog1
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -9,7 +9,7 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://clearvision.github.io/memedog/main.css');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #771414;
@@ -19,19 +19,19 @@
   --url-color: var(--main-color);
   --undefined: 0;
   --background-image: url('https://i.imgur.com/5D09Lq6.jpg');
-  --background-shading: 100%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
+  --background-brightness: 150%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -87,5 +87,7 @@
 }
 
 /* Any custom CSS below here */
+
+
 
 
